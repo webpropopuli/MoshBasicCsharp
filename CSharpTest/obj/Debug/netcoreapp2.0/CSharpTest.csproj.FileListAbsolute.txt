@@ -1,0 +1,11 @@
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\bin\Debug\netcoreapp2.0\CSharpTest.deps.json
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\bin\Debug\netcoreapp2.0\CSharpTest.runtimeconfig.json
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\bin\Debug\netcoreapp2.0\CSharpTest.runtimeconfig.dev.json
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\bin\Debug\netcoreapp2.0\CSharpTest.dll
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\bin\Debug\netcoreapp2.0\CSharpTest.pdb
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.csprojAssemblyReference.cache
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.csproj.CoreCompileInputs.cache
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.AssemblyInfoInputs.cache
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.AssemblyInfo.cs
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.dll
+C:\Users\dmarl\source\repos\CSharpTest\CSharpTest\obj\Debug\netcoreapp2.0\CSharpTest.pdb
